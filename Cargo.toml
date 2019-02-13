@@ -1,0 +1,8 @@
+[package]
+name = "plsget"
+version = "0.1.0"
+authors = ["Advaith Doosa <advaith@doosa.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.26.0"
